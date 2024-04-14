@@ -1,0 +1,11 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files"
+  },
+  "cSpell.words": [
+    "concatena",
+    "mutiplica",
+    "Retorno",
+    "tipo"
+  ]
+}

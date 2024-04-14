@@ -1,0 +1,1 @@
+const dadosClient: [number, string] = [1, "Carlos"]
